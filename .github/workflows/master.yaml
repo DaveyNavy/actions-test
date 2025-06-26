@@ -1,5 +1,5 @@
 name: Github Actions Demo
-on: workflow-call
+on: workflow_call
 jobs:
   Explore Github Actions:
     runs-on: ubuntu-latest
